@@ -1,2 +1,0 @@
-export const CATEGORIES = ['All', 'Academic', 'Sports', 'Cultural', 'Workshop', 'Social', 'Career'];
-export const ORGANIZATIONS = ['All', 'Computer Science Club', 'Student Council', 'Drama Society', 'Sports Committee', 'IEEE', 'Debate Club'];
